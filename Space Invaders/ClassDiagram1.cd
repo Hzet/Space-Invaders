@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="gsi::CBullet" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>bullet.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gsi::CSpacecraft" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAgoEAAAAAAAgAACAAAAgAQCEEAAAAAAAERAAAAA=</HashCode>
+      <FileName>spacecraft.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gsi::CGameMechanics" Collapsed="true">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACEAAAABAAAACAAABUACCAGECAAQABAg=</HashCode>
+      <FileName>game-mechanics.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gsi::Level1" Collapsed="true">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Levels.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gsi::CObjectFactory" Collapsed="true">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAAAAAACAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>factory.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gsi::CGame" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAMAAAAAAAAAACAACAAAAAgIAA=</HashCode>
+      <FileName>game-execution.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gsi::IBasicLevel" Collapsed="true">
+    <Position X="12.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAQAAAAAAAAAAAAAEAAAEAYAEAAAAAAAACA=</HashCode>
+      <FileName>level-basic.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gsi::IMovable" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAABACAAAAAAAAAAAAAAIAAAERAAAAAAAA=</HashCode>
+      <FileName>movable.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="gsi::IGameObject" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAQAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>game-object.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="gsi::EDirections" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAEAAAAAAAAAAAAAAIAAAAAAAAEgAAAAAAAAAA=</HashCode>
+      <FileName>movable.hpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
